@@ -10,10 +10,10 @@ A modern, minimalist social media application built with React and React Bootstr
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/social-post-frontend.git
+git clone https://github.com/yourusername/social-frontend.git
 
 # Navigate to project directory
-cd social-post-frontend
+cd social-frontend
 
 # Install dependencies
 npm install
@@ -53,25 +53,6 @@ npm start
 2. Enter: Email, Password
 3. Click "Login"
 4. Redirect to home
-```
-
-### 2. Create Post
-
-```
-Option A: Text only
-├─ Type in "What's on your mind?"
-└─ Click "Post" button
-
-Option B: Image only
-├─ Click camera icon (📷)
-├─ Select image
-└─ Click "Post" button
-
-Option C: Text + Image
-├─ Type text
-├─ Click camera icon
-├─ Select image
-└─ Click "Post" button
 ```
 
 ## 🔌 API Integration
